@@ -1,0 +1,24 @@
+{
+  "name": "linkedin-profile-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "start.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isaaclimavtex/linkedin-profile-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/isaaclimavtex/linkedin-profile-api/issues"
+  },
+  "homepage": "https://github.com/isaaclimavtex/linkedin-profile-api#readme",
+  "dependencies": {
+    "axios": "^1.2.2",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2"
+  }
+}
