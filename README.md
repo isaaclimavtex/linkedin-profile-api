@@ -1,3 +1,14 @@
+## Linkedin Profile API POC
+Run:
+```
+npm install
+```
+to install all the dependencies and run
+```
+node start.js
+```
+to run the program.
+
 ## .env file format
 ```
 CLIENT_SECRET=
